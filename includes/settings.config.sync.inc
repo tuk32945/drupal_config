@@ -13,4 +13,5 @@ $config_splits = array(
   ),
   'config_split.config_split.tu_split_black_prod_ui_disable' => array(
       'folder' => dirname(DRUPAL_ROOT) . '/drupal_config/split/tu_split_black_prod_ui_disable'
+  ),
 );
